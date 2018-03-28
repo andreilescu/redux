@@ -1,0 +1,19 @@
+.example-icon {
+  padding: 0 14px;
+}
+
+.badge {
+  position: absolute;
+  display: table;
+  padding: 2px 5px 0;
+  color: #fff;
+  border: solid 1px #1e2327;
+  left: 50%;
+  top: 7px;
+  height: 10px;
+  border-radius: 4px;
+  min-width: 0;
+  -webkit-transform: scale(0.8, 0.8);
+  transform: scale(0.8, 0.8);
+  background-color: #FF4081 !important;
+}
